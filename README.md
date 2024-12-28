@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on osint & digital forensics ...
 - 📫 How to reach me ...@mramitrtx telegram
 - 😄 Pronouns: ...he/him/his
-- ⚡ Fun fact: ...
+- ⚡ hackerrr
 
 <!---
 UgAmit/UgAmit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
